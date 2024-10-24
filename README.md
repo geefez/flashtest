@@ -1,2 +1,2 @@
-# flashtest
-Adobe Flash testing kit.
+# Flash test
+Adobe Flash Player testing kit.
